@@ -2,7 +2,7 @@
 #include <cstdio>
 #include <cstring>
 #include <queue>
-#define INF 2
+#define INF 1000000000
 
 using namespace std;
 

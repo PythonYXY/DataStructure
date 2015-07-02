@@ -4,7 +4,7 @@
 #include <queue>
 using namespace std;
 
-#define INF 2
+#define INF 1000000000
 const int MaxNode = 9;
 
 int edge[MaxNode][MaxNode];
